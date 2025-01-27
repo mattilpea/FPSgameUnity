@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 253df5cd62fc47347b5b6e1c6639882c
+timeCreated: 1540373210
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 131599
+  packageName: Weapon Pack - Makarov (PM) - FREE
+  packageVersion: 1.0
+  assetPath: Assets/PM Makarov FREE/Makarov (PM)/Materials/M_PM_Silencer.mat
+  uploadId: 277704
